@@ -4,7 +4,9 @@ over the past few years, i have developed several data related projects includin
 
 
 -**Infusion Defect Traceability System** (https://github.com/roryday/Infusion-Defect-Tracking-System)
+
 -**Battery Defect Rate KPI Dashboard**
+
 -**Defect Classification System**
 
 
