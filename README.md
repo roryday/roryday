@@ -3,7 +3,7 @@ Hello!I am a Process Engineer with expereinces in maufacturing data analytics, m
 over the past few years, i have developed several data related projects including:
 
 
--**Infusion Defect Traceability System**
+-**Infusion Defect Traceability System** (https://github.com/roryday/Infusion-Defect-Tracking-System)
 -**Battery Defect Rate KPI Dashboard**
 -**Defect Classification System**
 
