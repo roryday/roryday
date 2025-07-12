@@ -5,6 +5,8 @@ over the past few years, i have developed several data related projects includin
 
 -**Infusion Defect Traceability System** (https://github.com/roryday/Infusion-Defect-Tracking-System)
 
+-**AI-Based Defect Classification System (DCS)** (https://github.com/roryday/DCS)
+
 -**Battery Defect Rate KPI Dashboard** (https://github.com/roryday/KPI_Dashboard)
 
 -**Portfolio Investment Strategy using Prophet Model**(https://github.com/roryday/Portfolio-Investment-Strategy-using-Prophet-Model)
